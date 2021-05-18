@@ -29,3 +29,5 @@ where
 | f | Closed | !Found | Closed - Open in May 2020 and closed in November 2020 and still closed in May 2021 |
 | g | N/A | Found | New - Newly opened between November 2020 and May 2021 |
 
+## Credits
+Initial dataset is sourced from [Kevin Bi](https://github.com/Kevin-Bi/toronto_food_proj?fbclid=IwAR0luS3ea0fHaXQnApMp31geQbZJtFh-4F9t9jt6drb-ICQV9dGH36zxwbg)
