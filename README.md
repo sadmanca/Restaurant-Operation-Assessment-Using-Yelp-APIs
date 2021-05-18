@@ -2,10 +2,13 @@
 
 # TorontoAftertheFirstWave Applications
 > Please note that this project is part of an ongoing project assessing impacts of COVID-19 in Toronto (https://torontoafterthefirstwave.com/). Datasets are collected from Yelp in May 2020, November 2020, and May 2021.
-* Visualizations: https://torontoafterthefirstwave.com/dashboards/restaurants/
+* Dashboard: https://torontoafterthefirstwave.com/dashboards/restaurants/
 
 ## Media Mentions
-
+<!-- toc -->
+* [Spacing Toronto Magazine](http://spacing.ca/toronto/2021/04/29/toronto-after-the-1st-wave-how-covid-19-affected-three-key-markets/)
+* [University of Toronto Magazine](https://magazine.utoronto.ca/research-ideas/culture-society/the-surprising-resilience-of-restaurants-toronto-covid19-pandemic/)
+* [The Global and Mail](https://www.theglobeandmail.com/business/article-the-restaurant-industry-is-hurting-thats-not-stopping-these/)
 
 ## First Assessment (May 2020 - November 2020)
 Using `SQL EXCEPT` and `SQL INTERSECT`, operation statuses are differentiated into "Open", "New", and "Closed" by comparing datasets collected in May 2020 and November 2020:
