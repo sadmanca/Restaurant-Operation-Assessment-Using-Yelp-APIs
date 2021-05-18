@@ -10,6 +10,7 @@
 * [University of Toronto Magazine](https://magazine.utoronto.ca/research-ideas/culture-society/the-surprising-resilience-of-restaurants-toronto-covid19-pandemic/)
 * [The Global and Mail](https://www.theglobeandmail.com/business/article-the-restaurant-industry-is-hurting-thats-not-stopping-these/)
 
+# Sampling Method
 ## First Assessment (May 2020 - November 2020)
 Using `SQL EXCEPT` and `SQL INTERSECT`, operation statuses are differentiated into "Open", "New", and "Closed" by comparing datasets collected in May 2020 and November 2020:
 ![alt text](https://github.com/lilydia/Restaurant-Operation-Assessment-Using-Yelp-APIs/blob/main/images/May2020-Nov2020_Assessment.PNG)
