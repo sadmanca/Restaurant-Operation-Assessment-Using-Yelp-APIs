@@ -9,8 +9,8 @@
 * [Spacing Toronto Magazine](http://spacing.ca/toronto/2021/04/29/toronto-after-the-1st-wave-how-covid-19-affected-three-key-markets/)
 * [University of Toronto Magazine](https://magazine.utoronto.ca/research-ideas/culture-society/the-surprising-resilience-of-restaurants-toronto-covid19-pandemic/)
 * [The Global and Mail](https://www.theglobeandmail.com/business/article-the-restaurant-industry-is-hurting-thats-not-stopping-these/)
-* [Toronto Star Daily News Podcast](https://www.thestar.com/podcasts/thismatters/2021/06/04/how-some-restaurants-opened-and-adapted-during-the-pandemic-and-whats-next.html)
-* [Toronto Star] (https://www.thestar.com/news/gta/2021/05/27/pizzas-burgers-sandwiches-more-of-these-restaurants-opened-during-the-pandemic-will-the-trend-continue.html)
+* [Toronto Star Podcast](https://www.thestar.com/podcasts/thismatters/2021/06/04/how-some-restaurants-opened-and-adapted-during-the-pandemic-and-whats-next.html)
+* [Toronto Star News](https://www.thestar.com/news/gta/2021/05/27/pizzas-burgers-sandwiches-more-of-these-restaurants-opened-during-the-pandemic-will-the-trend-continue.html)
 
 # Sampling Method
 ## First Assessment (May 2020 - November 2020)
